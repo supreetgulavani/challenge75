@@ -1,0 +1,6 @@
+com.challenge75.test.app-core-1.5.0-0 /Users/supreetgulavani/.gradle/caches/9.0-milestone-1/transforms/90e6067981eef8661bc7ce558db938a3/transformed/core-1.5.0/res
+com.challenge75.test.app-annotation-experimental-1.4.1-1 /Users/supreetgulavani/.gradle/caches/9.0-milestone-1/transforms/bf818877cffcb5625ecac68687c1e1b0/transformed/annotation-experimental-1.4.1/res
+com.challenge75.test.app-androidTest-2 /Users/supreetgulavani/PhD/sampii/Challenge75_Full_Project/app/build/generated/res/resValues/androidTest/debug
+com.challenge75.test.app-mergeDebugAndroidTestResources-3 /Users/supreetgulavani/PhD/sampii/Challenge75_Full_Project/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.challenge75.test.app-mergeDebugAndroidTestResources-4 /Users/supreetgulavani/PhD/sampii/Challenge75_Full_Project/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.challenge75.test.app-merged_res-5 /Users/supreetgulavani/PhD/sampii/Challenge75_Full_Project/app/build/intermediates/merged_res/debugAndroidTest
